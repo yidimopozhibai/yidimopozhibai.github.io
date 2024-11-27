@@ -14,13 +14,13 @@ I was admitted to South China Agricultural University (**华南农业大学,Guan
 
 <br>
 
-<br>My exploration in the field of computer science is very extensive, with a particular emphasis on deep learning and computer vision. To this day, I continue to delve into the cutting-edge areas of artificial intelligence.<br>
+<br>My exploration in the field of computer science is very extensive, with a particular emphasis on deep learning and computer vision. To this day, I continue to delve into the cutting-edge areas of artificial intelligence.
 
+<br>
 
+<br>I hope that my past and future scientific research can make a modest contribution to the development of humanity, and I will continue to work hard for it.
 
-<br>I hope that my past and future scientific research can make a modest contribution to the development of humanity, and I will continue to work hard for it.<br>
-
-
+<br>
 
 My interests lie in **object detection** , **Multiclasses Object track** and **traditional computer vision**,  and I hope to engage in research on multimodality and **recommendation systems**  in the future.
 
