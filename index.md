@@ -63,7 +63,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 2020全国大学生英语翻译大赛省级三等奖；
 - 2022第三届“航天杯”移动机器人AI创新技术挑战赛二等奖；
 - 2022（第15届）中国大学生计算机设计大赛人工智能挑战赛省级三等奖；
-- **<font color="#990000">2020年9月入学华南农业大学 攻读学士双学位</font>**
+- **<font color="#990000">2020年9月入学华南农业大学 攻读学士学位</font>**
 
 ---
 
