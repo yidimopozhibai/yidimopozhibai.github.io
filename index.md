@@ -14,8 +14,6 @@ I was admitted to South China Agricultural University (**华南农业大学,Guan
 
 <br>
 
-
-
 <br>My exploration in the field of computer science is very extensive, with a particular emphasis on deep learning and computer vision. To this day, I continue to delve into the cutting-edge areas of artificial intelligence.<br>
 
 
