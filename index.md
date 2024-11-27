@@ -10,11 +10,11 @@ Here is **YangChen Zeng (Merson, 曾扬晨)**.
 
 <br>
 
-I was admitted to South China Agricultural University (**华南农业大学,Guangzhou**) in 2020, majoring in Marine Biology. In 2021, I transferred to the School of Software Engineering at South China Agricultural University (Guangzhou) to study Software Engineering. I graduated from South China Agricultural University in 2024 with a bachelor's degree. In September 2024, I was admitted to the School of Cybersecurity at Southeast University (**东南大学,Wuxi**) to pursue a master's degree.<br>
+I was admitted to South China Agricultural University (**华南农业大学,Guangzhou**) in 2020, majoring in Marine Biology. In 2021, I transferred to the School of Software Engineering at South China Agricultural University (Guangzhou) to study Software Engineering. I graduated from South China Agricultural University in 2024 with a Software Engineering bachelor's degree. In September 2024, I was admitted to the School of Cybersecurity at Southeast University (**东南大学,Wuxi**) to pursue a CyberSpace master's degree.<br>
 
 <br>
 
-My interests lie in **object detection** , **Multiclasses track** and **traditional computer vision**, and I hope to engage in research on multimodality and **recommendation systems** in the future.
+My interests lie in **object detection**（目标检测） , **Multiclasses Object track** （多类别目标跟踪）and **traditional computer vision **（传统计算机视觉）, and I hope to engage in research on multimodality（多模态） and **recommendation systems** （推荐系统）in the future.
 
 <br>
 
