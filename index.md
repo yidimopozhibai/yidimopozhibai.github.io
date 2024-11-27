@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="zyc.jpg" class="floatpic">
+<img src="ZYC.jpg" class="floatpic">
 
 Here is **YangChen Zeng (Merson, 曾扬晨)**.<br>
 
