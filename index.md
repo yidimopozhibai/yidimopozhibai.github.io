@@ -14,7 +14,15 @@ I was admitted to South China Agricultural University (**华南农业大学,Guan
 
 <br>
 
-My interests lie in **object detection**（目标检测） , **Multiclasses Object track**  （多类别目标跟踪）and **traditional computer vision  ** （传统计算机视觉）, and I hope to engage in research on multimodality（多模态） and **recommendation systems**  （推荐系统）in the future.
+My exploration in the field of computer science is very extensive, with a particular emphasis on deep learning and computer vision. To this day, I continue to delve into the cutting-edge areas of artificial intelligence.
+
+
+
+I hope that my past and future scientific research can make a modest contribution to the development of humanity, and I will continue to work hard for it.
+
+
+
+My interests lie in **object detection** , **Multiclasses Object track** and **traditional computer vision  ** , and I hope to engage in research on multimodality and **recommendation systems**  in the future.
 
 <br>
 
@@ -26,10 +34,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 [**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
 
-- recommendation systems
-- object detection
-- Multiclasses track
-- traditional computer vision(OpenCV etc.)
+- recommendation systems（推荐系统）
+- object detection（目标检测）
+- Multiclasses track（多类别目标跟踪）
+- traditional computer vision（传统计算机视觉）(OpenCV etc.)
 
 ---
 
