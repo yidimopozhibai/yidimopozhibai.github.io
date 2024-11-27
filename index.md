@@ -22,7 +22,7 @@ I hope that my past and future scientific research can make a modest contributio
 
 
 
-My interests lie in **object detection** , **Multiclasses Object track** and **traditional computer vision  ** , and I hope to engage in research on multimodality and **recommendation systems**  in the future.
+My interests lie in **object detection** , **Multiclasses Object track** and **traditional computer vision**,  and I hope to engage in research on multimodality and **recommendation systems**  in the future.
 
 <br>
 
