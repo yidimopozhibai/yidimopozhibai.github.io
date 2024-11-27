@@ -14,7 +14,7 @@ I was admitted to South China Agricultural University (**华南农业大学,Guan
 
 <br>
 
-My interests lie in **object detection**（目标检测） , **Multiclasses Object track** （多类别目标跟踪）and **traditional computer vision **（传统计算机视觉）, and I hope to engage in research on multimodality（多模态） and **recommendation systems** （推荐系统）in the future.
+My interests lie in **object detection**（目标检测） , **Multiclasses Object track**  （多类别目标跟踪）and **traditional computer vision  ** （传统计算机视觉）, and I hope to engage in research on multimodality（多模态） and **recommendation systems**  （推荐系统）in the future.
 
 <br>
 
