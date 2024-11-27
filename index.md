@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 [**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
 
 - recommendation systems（推荐系统）
-- object detection（目标检测）
+- multimodality object detection（多模态目标检测）
 - Multiclasses track（多类别目标跟踪）
 - traditional computer vision（传统计算机视觉）(OpenCV etc.)
 
