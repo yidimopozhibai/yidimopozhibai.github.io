@@ -1,42 +1,86 @@
 ---
-layout: page
+layout: 曾扬晨
 ---
 
-# About Me1
+# About Me
 
 <img src="ZYC.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+Here is **YangChen Zeng (Merson, 曾扬晨)**.
+
+<br>
+
+I was admitted to South China Agricultural University (**华南农业大学,Guangzhou**) in 2020, majoring in Marine Biology. In 2021, I transferred to the School of Software Engineering at South China Agricultural University (Guangzhou) to study Software Engineering. I graduated from South China Agricultural University in 2024 with a bachelor's degree. In September 2024, I was admitted to the School of Cybersecurity at Southeast University (**东南大学,Wuxi**) to pursue a master's degree.<br>
+
+<br>
+
+My interests lie in **object detection** , **Multiclasses track** and **traditional computer vision**, and I hope to engage in research on multimodality and **recommendation systems** in the future.
+
+<br>
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - **zengyangchen@foxmail.com** (with your purpose please)
+
+
 
 ---
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+[**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- recommendation systems
+- object detection
+- Multiclasses track
+- traditional computer vision(OpenCV etc.)
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- [2024年11月**全国仿真创新应用大赛智能装备仿真赛道**-**智能硬件仿真**国家一等奖（全国第一名）](http://www.siac.net.cn/h-nd-206.html)[公示中]
+  - [《以摄像机为主导的低功耗芯片无人智能车》项目将开源至Github](https://github.com/orgs/SCAU-RM%EF%BF%BENAV/repositories)
+  - 2024年10月**全国仿真创新应用大赛智能装备仿真赛道**省级一等奖，入围决赛
+- **<font color="#990000">2024年9月入学东南大学 攻读硕士学位</font>**
+- 2021至2024年参加ShuQin,Tu老师课题组有如下产出
+  - [《**基于改进ByteTrack算法的群养生猪行为识别与跟踪技术**》(《农业机械学报》2022,53-12)](https://kns.cnki.net/kcms2/article/abstract?v=Oa1N_PzK0nRoyrtqD5Feb9I8128LHHnL7RhfhQCba6Y9fPHhJFSXuGL_veRI5dYBNkF-2IquHwRYKRC4g86xGYQmIGc6m6fv9ajWYKvfnISSZ0mNyGb9_lfpAnXWfg1cRUtgYjl1NzE38ksDfkKTeufRnDSC_tN4YCA5JxUCXqW62BGInzpMfAtnayjnqrqx&uniplatform=NZKPT&language=CHS)
+  - [《一种群养生猪多目标跟踪及行为统计方法》（发明专利申请号：202211386127.2）](https://kns.cnki.net/kcms2/article/abstract?v=Oa1N_PzK0nSFiNi09Jy2D1CUcbaKQtBcATJJPw3cU2YLHgUndVtL4-0IJwIxQcaOKl5utKVvtfq_nz276e2dqC0j8QjPb23aMxjebgKUrMD3qPunm3mcOReudfeJqbmuhTfL3sokq3-9N2PS_3vBHDEdDpe7iHls2kzQt8KAgUhxTLA54D_llh3lRI6s5qCc&uniplatform=NZKPT&language=CHS)
+- 2020至2023年参加**全国大学生机器人竞赛**获得省部级以上奖项共10项，分别如下：
+  - 2023第二十二届全国大学生机器人大赛超级对抗赛 **国家级一等奖**（殿军）；
+  - 2023第二十二届全国大学生机器人大赛南部赛区一等奖；
+  - 2023第二十二届全国大学生机器人大赛广东高校联盟赛3V3对抗赛一等奖；
+  - 2022第二十一届全国大学生机器人大赛超级对抗赛 **国家级一等奖**；
+  - 2022第二十一届全国大学生机器人大赛南部赛区一等奖；
+  - 2022第二十一届全国大学生机器人大赛广东高校联盟赛步兵对抗赛一等奖；
+  - RoboMaster 2022机甲大师高校单项步兵竟速与智能射击 **国家级二等奖**；
+  - RoboMaster 2023机甲大师高校联盟赛3V3对抗赛哨兵机器人 团队一等奖；
+  - RoboMaster 2022机甲大师全国对抗赛英雄组 团队三等奖；
+  - RoboMaster 2022机甲大师广东高校联盟赛步兵 团队三等奖；
 
-<br>
+- 2022第十七届全国大学生智能汽车竞赛全国总决赛 **国家级二等奖**；
+- 2022第十七届全国大学生智能汽车竞赛南区省部级一等奖（**第二名**）；
+- 2021全国大学生数学建模竞赛广东赛区二等奖；
+- 2021亚太地区大学生数学建模竞赛二等奖；
+- 2022年美国大学生数学建模 **国际二等奖**；
+- 2022年数维杯大学生数学建模竞赛本科组二等奖；
+- 2021全国大学生英语作文大赛省级三等奖；
+- 2020全国大学生英语翻译大赛省级三等奖；
+- 2022第三届“航天杯”移动机器人AI创新技术挑战赛二等奖；
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- 2022（第15届）中国大学生计算机设计大赛人工智能挑战赛省级三等奖；
 
+- **<font color="#990000">2020年9月入学华南农业大学 攻读学士双学位</font>**
+
+---
+
+## My internship
+
+- 2020.12～至今      华南农业大学    校机器人战队队员   **视觉算法组组长**；
+- 2021.04～至今      参加实验室科研及创新创业基金项目，发表1篇论文；
+
+- 2022.07～2022.08   深圳大疆创新科技  实习  车载计算机视觉、测试代码；
+
+- 2023.06      			东软教育科技集团  实习  前端开发、后端开发；
+
+- 2023.07～2023.08   深圳大疆创新科技  实习  车载计算机视觉、测试代码；
