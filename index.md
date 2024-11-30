@@ -36,7 +36,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - recommendation systems（推荐系统）
 - multimodality object detection（多模态目标检测）
-- Multiclasses track（多类别目标跟踪）
+- Multiclasses object track（多类别目标跟踪）
 - traditional computer vision（传统计算机视觉）(OpenCV etc.)
 
 ---
