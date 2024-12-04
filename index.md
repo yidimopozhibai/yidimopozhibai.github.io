@@ -48,9 +48,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
   - [《以摄像机为主导的低功耗芯片无人智能车》项目将开源至Github](https://github.com/orgs/SCAU-RM%EF%BF%BENAV/repositories)
   - 2024年10月**全国仿真创新应用大赛智能装备仿真赛道**省级一等奖，入围决赛
 - **<font color="#990000">2024年9月入学东南大学 攻读硕士学位</font>**
-- 2021至2024年参加ShuQin,Tu老师课题组有如下产出
+- **<font color="#990000">2024年4月结束研究生入学考试复试 东南大学网络空间安全学院拟录取</font>**
+- 2021至2024年参加华南农业大学数老师课题组有如下产出
   - [《**基于改进ByteTrack算法的群养生猪行为识别与跟踪技术**》(《农业机械学报》2022,53-12)](https://kns.cnki.net/kcms2/article/abstract?v=Oa1N_PzK0nRoyrtqD5Feb9I8128LHHnL7RhfhQCba6Y9fPHhJFSXuGL_veRI5dYBNkF-2IquHwRYKRC4g86xGYQmIGc6m6fv9ajWYKvfnISSZ0mNyGb9_lfpAnXWfg1cRUtgYjl1NzE38ksDfkKTeufRnDSC_tN4YCA5JxUCXqW62BGInzpMfAtnayjnqrqx&uniplatform=NZKPT&language=CHS)
   - [《一种群养生猪多目标跟踪及行为统计方法》（发明专利申请号：202211386127.2）](https://kns.cnki.net/kcms2/article/abstract?v=Oa1N_PzK0nSFiNi09Jy2D1CUcbaKQtBcATJJPw3cU2YLHgUndVtL4-0IJwIxQcaOKl5utKVvtfq_nz276e2dqC0j8QjPb23aMxjebgKUrMD3qPunm3mcOReudfeJqbmuhTfL3sokq3-9N2PS_3vBHDEdDpe7iHls2kzQt8KAgUhxTLA54D_llh3lRI6s5qCc&uniplatform=NZKPT&language=CHS)
+  - 大创、专利、软著、横向若干
 - 2020至2023年参加**全国大学生机器人竞赛**获得省部级以上奖项共10项，分别如下：
   - **<font color="#990000">2023第二十二届全国大学生机器人大赛超级对抗赛 国家级一等奖（殿军）；</font>**
   - 2023第二十二届全国大学生机器人大赛南部赛区一等奖；
@@ -73,6 +75,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 2020全国大学生英语翻译大赛省级三等奖；
 - 2022第三届“航天杯”移动机器人AI创新技术挑战赛二等奖；
 - 2022（第15届）中国大学生计算机设计大赛人工智能挑战赛省级三等奖；
+- 2021年4月从海洋科学专业转入软件工程专业学习
 - **<font color="#990000">2020年9月入学华南农业大学 攻读学士学位</font>**
 
 ---
