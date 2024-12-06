@@ -32,19 +32,26 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-[**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
+1.[**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
+
+2.**<font color="#990000">In my subsequent research work, I will focus on the offensive methods targeting multimodal object detectors, with the diffusion generative model as the attacking entity.</font>**
+
+3.**<font color="#990000">In my spare time as a graduate student, I focus on learning the current mainstream recommendation and advertising algorithms of internet companies.</font>**
+
+4.**<font color="#990000">I also have an interest in learning backend development.</font>**
 
 - recommendation systems（推荐系统）
 - multimodality object detection（多模态目标检测）
 - Multiclasses object track（多类别目标跟踪）
 - traditional computer vision（传统计算机视觉）(OpenCV etc.)
+- Multimodal Object Detection Adversarial Sample Attack and Defense（多模态目标检测对抗样本攻防）
 
 ---
 
 ## News and Updates
 
 - 2024年12月参加[第六届全国大学生新媒体创新大赛](https://www.saikr.com/vse/51053) （备赛中）
-- [2024年11月**全国仿真创新应用大赛智能装备仿真赛道**-**智能硬件仿真**国家一等奖（全国第一名）](http://www.siac.net.cn/h-nd-206.html)[**<font color="#990000">公示中</font>**]
+- [2024年11月**全国仿真创新应用大赛智能装备仿真赛道**-**智能硬件仿真**国家一等奖（全国第一名）](https://fe.faisco.cn/pdfjs/web/viewer.html)[**<font color="#990000">公示中</font>**]
   - [《以摄像机为主导的低功耗芯片无人智能车》项目将开源至Github](https://github.com/orgs/SCAU-RM%EF%BF%BENAV/repositories)
   - 2024年10月**全国仿真创新应用大赛智能装备仿真赛道**省级一等奖，入围决赛
 - **<font color="#990000">2024年9月入学东南大学 攻读硕士学位</font>**
