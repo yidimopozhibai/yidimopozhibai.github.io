@@ -33,11 +33,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## Research Interests
 
 1.[**<font color="#990000">I am currently working on a project to optimize multimodal small object detection. </font>**](https://github.com/yidimopozhibai/owesome_thiny_detection_in_RIs)
-
 2.**<font color="#990000">In my subsequent research work, I will focus on the offensive methods targeting multimodal object detectors, with the diffusion generative model as the attacking entity.</font>**
-
 3.**<font color="#990000">In my spare time as a graduate student, I focus on learning the current mainstream recommendation and advertising algorithms of internet companies.</font>**
-
 4.**<font color="#990000">I also have an interest in learning backend development.</font>**
 
 - recommendation systems（推荐系统）
