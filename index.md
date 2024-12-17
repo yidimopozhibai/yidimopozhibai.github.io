@@ -50,7 +50,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-- 2024年12月参加[第六届全国大学生新媒体创新大赛](https://www.saikr.com/vse/51053) （备赛中）
+- 2024年11月参加[第六届全国大学生新媒体创新大赛](https://www.saikr.com/vse/51053) （备赛中）
+  - 2024年12月[第六届全国大学生新媒体创新大赛全国三等奖](https://www.saikr.com/c/nd/26859) 
 - [2024年11月**全国仿真创新应用大赛智能装备仿真赛道**-**智能硬件仿真**国家一等奖（全国第一名）](https://fe.faisco.cn/pdfjs/web/viewer.html)[**<font color="#990000">公示中</font>**]
   - [《以摄像机为主导的低功耗芯片无人智能车》项目将开源至Github](https://github.com/orgs/SCAU-RM%EF%BF%BENAV/repositories)
   - 2024年10月**全国仿真创新应用大赛智能装备仿真赛道**省级一等奖，入围决赛
