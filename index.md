@@ -56,6 +56,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
   - [《以摄像机为主导的低功耗芯片无人智能车》项目将开源至Github](https://github.com/orgs/SCAU-RM%EF%BF%BENAV/repositories)
   - 2024年10月**全国仿真创新应用大赛智能装备仿真赛道**省级一等奖，入围决赛
 - **<font color="#990000">2024年9月入学东南大学 攻读硕士学位</font>**
+- [**<font color="#990000">2024东南网安|双非三跨上岸|专业课125+|916|553|东南大学网络空间安全学院 上岸经验贴</font>**](https://zhuanlan.zhihu.com/p/690715525)
 - **<font color="#990000">2024年4月结束研究生入学考试复试 东南大学网络空间安全学院拟录取</font>**
 - 2021至2024年参加华南农业大学数老师课题组有如下产出
   - [《**基于改进ByteTrack算法的群养生猪行为识别与跟踪技术**》(《农业机械学报》2022,53-12)](https://kns.cnki.net/kcms2/article/abstract?v=Oa1N_PzK0nRoyrtqD5Feb9I8128LHHnL7RhfhQCba6Y9fPHhJFSXuGL_veRI5dYBNkF-2IquHwRYKRC4g86xGYQmIGc6m6fv9ajWYKvfnISSZ0mNyGb9_lfpAnXWfg1cRUtgYjl1NzE38ksDfkKTeufRnDSC_tN4YCA5JxUCXqW62BGInzpMfAtnayjnqrqx&uniplatform=NZKPT&language=CHS)
