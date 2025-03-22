@@ -49,6 +49,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
+- 2025年3月22日论文完稿 
 - 2025年2月获得两项软著 
 - 2024年11月参加[第六届全国大学生新媒体创新大赛](https://www.saikr.com/vse/51053) （公示中）
   - 2024年12月[第六届全国大学生新媒体创新大赛全国三等奖](https://www.saikr.com/c/nd/26859) 
