@@ -41,6 +41,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 4.**<font color="#990000">I also have an interest in learning backend development.</font>**
 <br>
 - recommendation systems（推荐系统）
+- AI search/Agent search（ai搜索）
 - multimodality object detection（多模态目标检测）
 - Multiclasses object track（多类别目标跟踪）
 - traditional computer vision（传统计算机视觉）(OpenCV etc.)
@@ -98,6 +99,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - 2023.06东软教育科技集团  实习  前端开发、后端开发；
 - 2023.07深圳大疆创新科技  实习  车载计算机视觉算法开发、测试代码；
 - 2024.04～至今          参加东南大学实验室科研;
+- 2025.05～2025.09          得物;
+- 2025.11～至今          腾讯;
 
 
 
